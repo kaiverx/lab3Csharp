@@ -1,0 +1,10 @@
+D:\лабы по C#\lab_3\lab3\lab3\bin\Debug\lab3.exe.config
+D:\лабы по C#\lab_3\lab3\lab3\bin\Debug\lab3.exe
+D:\лабы по C#\lab_3\lab3\lab3\bin\Debug\lab3.pdb
+D:\лабы по C#\lab_3\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
+D:\лабы по C#\lab_3\lab3\lab3\obj\Debug\lab3.Form1.resources
+D:\лабы по C#\lab_3\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+D:\лабы по C#\lab_3\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+D:\лабы по C#\lab_3\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\лабы по C#\lab_3\lab3\lab3\obj\Debug\lab3.exe
+D:\лабы по C#\lab_3\lab3\lab3\obj\Debug\lab3.pdb
